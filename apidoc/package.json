@@ -1,0 +1,13 @@
+{
+  "name": "user-service",
+  "version": "0.1.0",
+  "description": "",
+  "title": "User Service",
+  "url": "http://dev-user-service.jobthai.com/api",
+  "sampleUrl": "http://dev-user-service.jobthai.com/api",
+  "template": {
+    "withCompare": true,
+    "withGenerator": true
+  }
+}
+
